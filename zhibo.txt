@@ -820,6 +820,14 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电�
 CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$江西电信    
 CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$江西电信   
 
+东森电影,http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737433427&kdssign=416985ca059a814ad31f35a12b0217cc
+东森洋片,http://fr-us3.jdiptv.cc/live/dsyp.m3u8?kdstime=1737433549&kdssign=c35e87dabf6b3dc85f2e7075d50743af
+龙华电影,http://fr-us2.jdiptv.cc/live/lxsdgj.m3u8?kdstime=1737437873&kdssign=ac6ecdbfbdf23f09f91457ed539a69c3
+美亚电影台,http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737427301&kdssign=914b9e09524a473917ea7746c9b1a6cc
+POPC,http://co-sg1.jdiptv.cc/live/popc.m3u8?kdstime=1737425642&kdssign=3f3e60bfdc73551cd8509d36c0746aef
+AMC电影台,http://fr-us4.jdiptv.cc/live/amcdy.m3u8?kdstime=1737438189&kdssign=ba106d5713450bcde1def7ac0daf66f4
+AXN,http://al-hk1.jdiptv.cc/live/axn.m3u8?kdstime=1737438301&kdssign=a4da22b7352b348691e3dadb0744e440
+
 东森洋片,https://stream1.freetv.fun/36c36c10c753997dd33f30ba27722c8ed095ca8a26b487b9dd499309d7726b0a.m3u8
 AMC电影台,https://stream1.freetv.fun/364e21133ea43460bcc895be1f7ea000065de402ecc572f985178bd5a9bf51f7.m3u8
 龙华电影,https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
