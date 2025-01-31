@@ -820,6 +820,7 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电�
 CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$江西电信    
 CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$江西电信   
 
+天映频道(国版),http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
 东森电影,http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737433427&kdssign=416985ca059a814ad31f35a12b0217cc
 东森洋片,http://fr-us3.jdiptv.cc/live/dsyp.m3u8?kdstime=1737433549&kdssign=c35e87dabf6b3dc85f2e7075d50743af
 龙华电影,http://fr-us2.jdiptv.cc/live/lxsdgj.m3u8?kdstime=1737437873&kdssign=ac6ecdbfbdf23f09f91457ed539a69c3
