@@ -519,27 +519,6 @@ iHOT爱玩具,http://158.179.175.153:50001/TVOD/2000000004000000053/bestzb/index
 iHOT爱科学,http://158.179.175.153:50001/TVOD/2000000004000000047/bestzb/index.m3u8
 iHOT爱动漫,http://158.179.175.153:50001/TVOD/2000000004000000059/bestzb/index.m3u8
 
-高码频道,#genre#
-CCTV-1 高码,http://117.43.169.232:54321/gaoma/CCTV-1.m3u8
-CCTV-2 高码,http://117.43.169.232:54321/gaoma/CCTV-2.m3u8
-CCTV-3 高码,http://117.43.169.232:54321/gaoma/CCTV-3.m3u8
-CCTV-4 高码,http://117.43.169.232:54321/gaoma/CCTV-4.m3u8
-CCTV-5 高码,http://117.43.169.232:54321/gaoma/CCTV-5.m3u8
-CCTV-5p 高码,http://117.43.169.232:54321/gaoma/CCTV-5p.m3u8
-CCTV-7 高码,http://117.43.169.232:54321/gaoma/CCTV-7.m3u8
-CCTV-8 高码,http://117.43.169.232:54321/gaoma/CCTV-8.m3u8
-CCTV-9 高码,http://117.43.169.232:54321/gaoma/CCTV-9.m3u8
-CCTV-10 高码,http://117.43.169.232:54321/gaoma/CCTV-10.m3u8
-CCTV-11 高码,http://117.43.169.232:54321/gaoma/CCTV-11.m3u8
-CCTV-12 高码,http://117.43.169.232:54321/gaoma/CCTV-12.m3u8
-CCTV-13 高码,http://117.43.169.232:54321/gaoma/CCTV-13.m3u8
-CCTV-14 高码,http://117.43.169.232:54321/gaoma/CCTV-14.m3u8
-CCTV-15 高码,http://117.43.169.232:54321/gaoma/CCTV-15.m3u8
-CCTV-16 高码,http://117.43.169.232:54321/gaoma/CCTV-16.m3u8
-CCTV-17 高码,http://117.43.169.232:54321/gaoma/CCTV-17.m3u8
-CCTV--8K,http://117.43.169.232:54321/gaoma/CCTV-8k_36m.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-
 央视频道,#genre#
 CCTV-1,http://111.73.21.100:1009/rtp/239.252.219.200:5140$江西电信
 CCTV-2,http://111.73.21.100:1009/rtp/239.252.220.183:5140$江西电信
