@@ -606,6 +606,23 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 
+Now星影,http://j.s.bkpcp.top/js/nowxyt
+Now爆谷,http://j.s.bkpcp.top/js/nowbgt
+POPC电影,http://j.s.bkpcp.top/js/popc
+功夫(国),http://j.s.bkpcp.top/js/gft
+美亚电影台(国),http://j.s.bkpcp.top/jj/mydy
+美亚电影台(粤),http://j.s.bkpcp.top/jj/mydyyy
+东森电影,http://j.s.bkpcp.top/js/dsdy
+好莱坞电影,http://j.s.bkpcp.top/js/hlwdy
+AMC电影台,http://j.s.bkpcp.top/jj/amcdy
+龙华电影,http://j.s.bkpcp.top/jj/lhdy
+龙华洋片,http://j.s.bkpcp.top/jj/lhyp
+龙祥时代,http://j.s.bkpcp.top/jj/lxsd
+壹电影,http://j.s.bkpcp.top/jj/ydy
+HBO HD,http://j.s.bkpcp.top/jj/hbo
+HBO原创巨献,http://j.s.bkpcp.top/jj/hboyc
+HBO家庭,http://j.s.bkpcp.top/jj/hbojt
+
 龙华电影,http://122.117.71.103:8552/.m3u8
 好莱坞电影,http://122.117.71.103:8553/.m3u8
 纬来电影,http://122.117.71.103:8554/.m3u8
@@ -613,10 +630,12 @@ HBO,http://122.117.71.103:8556/.m3u8
 AXN,http://122.117.71.103:8557/.m3u8
 CINEMAX,http://122.117.71.103:8558/.m3u8
 AMC电影台,http://122.117.71.103:8559/.m3u8
-美亚电影台,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+美亚电影台(粤),,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 POPC电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 
-天映频道(国语),https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+天映频道(国),http://php.jdshipin.com/smt.php?id=Celestial
+
+天映频道(国),https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
 东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
 东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
 好莱坞电影,https://haoyunlai.serv00.net/Smartv-1.php?id=hollywoodmovies_twn
@@ -635,7 +654,6 @@ CATCHPLAY,http://hk.666230.xyz/Smartv.php?id=catchplay_twn
 AMC电影台,http://haoyunlai.serv00.net/Smartv-1.php?id=starmoviesgold_twn
 
 AMC电影台,https://stream1.freetv.fun/364e21133ea43460bcc895be1f7ea000065de402ecc572f985178bd5a9bf51f7.m3u8
-美亚电影台,https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
 
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
@@ -734,6 +752,7 @@ HBO,http://122.117.71.103:8556/.m3u8
 AXN,http://122.117.71.103:8557/.m3u8
 CINEMAX,http://122.117.71.103:8558/.m3u8
 amC电影台,http://122.117.71.103:8559/.m3u8
+东森新闻,http://122.117.71.103:8539/.m3u8
 东森戏剧,http://122.117.71.103:8529/.m3u8
 东森超视,http://122.117.71.103:8524/.m3u8
 东森幼幼,http://122.117.71.103:8515/.m3u8
