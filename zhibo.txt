@@ -609,7 +609,7 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 Now星影,http://j.s.bkpcp.top/js/nowxyt
 Now爆谷,http://j.s.bkpcp.top/js/nowbgt
 POPC电影,http://j.s.bkpcp.top/js/popc
-功夫(国),http://j.s.bkpcp.top/js/gft
+TVB功夫台(国),http://j.s.bkpcp.top/js/gft
 美亚电影台(国),http://j.s.bkpcp.top/jj/mydy
 美亚电影台(粤),http://j.s.bkpcp.top/jj/mydyyy
 东森电影,http://j.s.bkpcp.top/js/dsdy
