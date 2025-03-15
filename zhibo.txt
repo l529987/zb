@@ -624,12 +624,16 @@ HBO原创巨献,http://j.s.bkpcp.top/jj/hboyc
 HBO家庭,http://j.s.bkpcp.top/jj/hbojt
 华纳电影,http://j.s.bkpcp.top/jj/hndy 
 
+东森电影,http://108.181.20.251:27347/livehttpplay?channel_id=20077
+龙祥时代,http://108.181.20.251:27347/livehttpplay?channel_id=20114
 龙华电影,http://108.181.21.27:27347/livehttpplay?channel_id=10129
 龙华洋片,http://108.181.21.27:27347/livehttpplay?channel_id=20090
 壹电影,http://108.181.21.27:27347/livehttpplay?channel_id=20108
 AMC电影台,http://108.181.21.27:27347/livehttpplay?channel_id=12036
 美亚电影台(粤),http://108.181.21.27:27347/livehttpplay?channel_id=20197
 纬来电影,http://108.181.21.27:27347/livehttpplay?channel_id=20199
+HBO,http://108.181.20.251:27347/livehttpplay?channel_id=20093
+HBO强档巨献,http://108.181.20.251:27347/livehttpplay?channel_id=20091
 
 龙华电影,http://122.117.71.103:8552/.m3u8
 好莱坞电影,http://122.117.71.103:8553/.m3u8
