@@ -548,7 +548,7 @@ TVB功夫台(国),http://j.s.bkpcp.top/js/gft
 AMC电影台,http://j.s.bkpcp.top/jj/amcdy
 龙华电影,http://j.s.bkpcp.top/jj/lhdy
 龙华洋片,http://j.s.bkpcp.top/jj/lhyp
-龙祥时代,http://j.s.bkpcp.top/jj/lxsd
+龙祥时代,http://j.s.bkpcp.top/js/lxsd
 壹电影,http://j.s.bkpcp.top/jj/ydy
 HBO,http://j.s.bkpcp.top/jj/hbo
 HBO原创巨献,http://j.s.bkpcp.top/jj/hboyc
