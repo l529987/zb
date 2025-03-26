@@ -6025,6 +6025,7 @@ IHOT,#genre#
 潘多啦,http://suo.im/aZtnO
 彩虹e,http://s.mrw.so/aeQSZ
 彩虹电影,http://suo.im/cuIoU
+pigoo,https://luong.utako.moe/pigoo/index.m3u8
 🈲HUSTLER HD,http://178.219.128.68:64888/HUSTHD
 🈲EROX HD,http://178.219.128.68:64888/EROXHD
 🈲PRIVTVATE HD,http://178.219.128.68:64889/PRIVTVHD
