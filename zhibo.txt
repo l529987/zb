@@ -193,7 +193,7 @@ CCTV17,http://222.64.114.111:7777/gaoma/CCTV17.m3u8
 无线新闻台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 娱乐新闻台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 中天新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-中视新闻,http://aktv_stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+中视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 环宇新闻台,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 东森LIVE,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
