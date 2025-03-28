@@ -216,6 +216,12 @@ TVBS新闻台,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122
 无线新闻台,http://goo.bkpcp.top/mg/tvbwxxwt
 Now新闻台,http://goo.bkpcp.top/mg/nowxwt
 有线新闻,http://goo.bkpcp.top/mg/tvbxgyxxw
+娱乐新闻台,http://goo.bkpcp.top/mg/tvbylxwt 
+
+无线新闻台,http://z.b.bkpcp.top/m.php?id=tvbwxxwt
+Now新闻台,http://z.b.bkpcp.top/m.php?id=nowxwt 
+有线新闻,http://z.b.bkpcp.top/m.php?id=tvbxgyxxw
+娱乐新闻台,http://z.b.bkpcp.top/m.php?id=tvbylxwt 
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___Phx_HD.flv
 中天新闻,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___CTI__HD.flv
@@ -650,21 +656,24 @@ ROCK Action,http://103.38.82.107:28888/stream/tvb/rockaction/master.m3u8?u=tvvvv
 Now星影台(粤),http://j.s.bkpcp.top/js/nowxyt
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt
 POPC电影,http://j.s.bkpcp.top/js/popc
+AMC电影台,http://j.s.bkpcp.top/jj/amcdyt
 TVB功夫台(国),http://j.s.bkpcp.top/js/gft
 美亚电影台(国),http://j.s.bkpcp.top/jj/mydy
-美亚电影台(国),http://j.s.bkpcp.top/js/mydy7
+美亚电影台(国),http://j.s.bkpcp.top/jj/mydy1 
 美亚电影台(粤),http://j.s.bkpcp.top/jj/mydyyy
-东森电影,http://j.s.bkpcp.top/js/dsdy
-好莱坞电影,http://j.s.bkpcp.top/jj/hlw 
-好莱坞电影,http://j.s.bkpcp.top/js/hlwdy1
+东森电影,http://j.s.bkpcp.top/jj/dsdy 
+东森洋片,http://j.s.bkpcp.top/jj/dsyp 
+好莱坞电影,http://j.s.bkpcp.top/js/hlwdy
 AMC电影台,http://j.s.bkpcp.top/jj/amcdy
 龙华电影,http://j.s.bkpcp.top/jj/lhdy
 龙华洋片,http://j.s.bkpcp.top/jj/lhyp
 龙祥时代,http://j.s.bkpcp.top/js/lxsd
+纬来电影,http://j.s.bkpcp.top/jj/wldy 
 壹电影,http://j.s.bkpcp.top/jj/ydy
-HBO,http://j.s.bkpcp.top/jj/hbo
+HBO,http://j.s.bkpcp.top/jj/hbohd 
 HBO原创巨献,http://j.s.bkpcp.top/jj/hboyc
-HBO家庭,http://j.s.bkpcp.top/jj/hbojt
+HBO家庭,http://j.s.bkpcp.top/jj/hbofamily1
+HBO强档巨献,http://j.s.bkpcp.top/jj/hbohits 
 华纳电影,http://j.s.bkpcp.top/jj/hndy 
 
 美亚电影台(粤),https://live.tvfix.org/live/mydy/index.m3u8
