@@ -187,6 +187,11 @@ CCTV16,http://222.64.114.111:7777/gaoma/CCTV16.m3u8
 CCTV17,http://222.64.114.111:7777/gaoma/CCTV17.m3u8
 
 新闻频道,#genre#
+东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
+中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
+寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+
 凤凰卫视,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 无线新闻台,http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
