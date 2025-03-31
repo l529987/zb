@@ -6216,7 +6216,7 @@ IHOT,#genre#
 惊艳台,http://suo.im/dfkTT
 潘多啦,http://suo.im/aZtnO
 彩虹e,http://s.mrw.so/aeQSZ
-彩虹电影,http://suo.im/cuIo
+彩虹电影,http://suo.im/cuIoU
 极限电影台,http://suo.im/aD7Ry
 pigoo,https://luong.utako.moe/pigoo/index.m3u8
 🈲HUSTLER HD,http://178.219.128.68:64888/HUSTHD
