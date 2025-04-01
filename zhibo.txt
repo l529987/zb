@@ -6363,7 +6363,7 @@ IHOT,#genre#
 爱奇迹,http://ikuai4.zzy789.xyz:5588/udp/239.93.23.238:8722
 爱动漫,http://ikuai4.zzy789.xyz:5588/udp/239.93.23.239:8736
 
-🌈 彩虹频道_4200,#genre#
+🌈 彩虹频道_8066,#genre#
 松视1,http://suo.im/aeQTj
 松视3,http://suo.im/aeQT9
 香蕉台,http://s.mrw.so/bK5Rb
