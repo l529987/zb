@@ -665,23 +665,26 @@ ROCK Action,http://103.38.82.107:28888/stream/tvb/rockaction/master.m3u8?u=tvvvv
 
 POPC电影,http://150.138.77.132:10037/aktv.php?id=PopC
 
-美亚电影台(粤),https://live.tvfix.org/live/mydy/index.m3u8
-美亚电影台(粤),https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-POPC电影,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
-POPC电影,https://live.tvfix.org/live/popc/2/a128000/index.m3u8
-AXN,https://live.tvfix.org/live/axn/1/v4000000/index.m3u8
-AXN,https://live.tvfix.org/live/axn/1/a128000/index.m3u8
-
+天映频道(国),http://108.181.20.197/livehttpplay?channel_id=10130
+天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
 东森电影,http://108.181.20.251:27347/livehttpplay?channel_id=20077
+东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
 龙祥时代,http://108.181.20.251:27347/livehttpplay?channel_id=20114
 龙华电影,http://108.181.21.27:27347/livehttpplay?channel_id=10129
 龙华洋片,http://108.181.21.27:27347/livehttpplay?channel_id=20090
 壹电影,http://108.181.21.27:27347/livehttpplay?channel_id=20108
 AMC电影台,http://108.181.21.27:27347/livehttpplay?channel_id=12036
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
 美亚电影台(粤),http://108.181.21.27:27347/livehttpplay?channel_id=20197
 纬来电影,http://108.181.21.27:27347/livehttpplay?channel_id=20199
+靖天电影台,http://108.181.20.197/livehttpplay?channel_id=12037
 HBO,http://108.181.20.251:27347/livehttpplay?channel_id=20093
+HBO家庭,http://108.181.20.197/livehttpplay?channel_id=20092
+HBO原创巨献,http://108.181.20.197/livehttpplay?channel_id=20314
 HBO强档巨献,http://108.181.20.251:27347/livehttpplay?channel_id=20091
+华纳电影,http://108.181.20.251:27347/livehttpplay?channel_id=20112
+AXN,http://108.181.20.197/livehttpplay?channel_id=12039
+CATCHSLAY,http://108.181.20.197/livehttpplay?channel_id=10127
 
 龙华电影,http://122.117.71.103:8552/.m3u8
 好莱坞电影,http://122.117.71.103:8553/.m3u8
