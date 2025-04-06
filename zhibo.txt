@@ -645,7 +645,7 @@ CHC家庭影院,http://60.168.109.226:4000/udp/238.1.79.22:4288$安徽电信
 CHC动作电影,http://60.168.109.226:4000/udp/238.1.79.18:4256$安徽电信 
 CHC影迷电影,http://60.168.109.226:4000/udp/238.1.79.17:4248$安徽电信 
 CHC动作电影,http://jm3.mycloudnas.com:9999/udp/239.61.4.169:1025&福建电信
-
+Now爆谷台,http://goo.bkpcp.top/mg/nowbgt
 东森电影,http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森洋片,http://198.16.100.186:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 好莱坞电影,http://198.16.100.186:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
