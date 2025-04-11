@@ -1,5 +1,4 @@
-
-新闻频道
+新闻频道,#genre#
 #EXTINF:-1 tvg-id="351" tvg-name="鳳凰衛視中文台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20108.png" group-title="港澳",鳳凰衛視中文台
 
 #EXTINF:-1 tvg-id="9593" tvg-name="鳳凰衛視資訊台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20109.png" group-title="新聞",鳳凰衛視資訊台
@@ -7,8 +6,8 @@
 
 #EXTINF:-1 tvg-id="9385" tvg-name="TVB無線新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20110.png" group-title="新聞",TVB無線新聞台
 
-#EXTINF:-1 tvg-id="9411" tvg-name="中天新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20369.png" group-title="新聞",中天新聞台
-
+#EXTINF:-1 tvg-id="9411" tvg-name="中天新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20369.png" group-title="新聞",中天新聞
+http://198.16.100.186:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 tvg-id="9515" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="新聞",東森新聞
 
 #EXTINF:-1 tvg-id="9528" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="新聞",東森財經新聞
@@ -34,7 +33,7 @@
 
 
 
-电影频道
+电影频道,#genre#
 #EXTINF:-1 tvg-id="9697" tvg-name="天映频道" tvg-logo="https://vpic.6868c.cc/channellogo/20211103/c50016.png" group-title="電影",天映频道
 #EXTINF:-1 tvg-id="9905" tvg-name="天映頻道CELESTIAL" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20242.png" group-title="電影",天映頻道CELESTIAL
 #EXTINF:-1 tvg-id="9892" tvg-name="天映經典CCM" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20396.png" group-title="電影",天映經典CCM
