@@ -187,22 +187,6 @@ CCTV16,http://zjzcf.synology.me:35455/gaoma/cctv16.m3u8
 CCTV17,http://zjzcf.synology.me:35455/gaoma/cctv17.m3u8
 
 新闻频道,#genre#
-凤凰卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixtv_hd
-凤凰资讯,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixinfo_hd
-凤凰香港台,http://eu.huohuoaa.tech:1025/Smart.php?id=hkphoenix_twn
-无线新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=inews_twn
-中天新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
-环宇新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=huanyuxinwen_twn
-东森新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
-东森财经新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvcaijing_twn
-台视新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
-中视新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
-TVBS HD,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs
-TVBS新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs_n
-年代新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=niandainews_twn
-非凡新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=feifannews_twn
-民视新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvnew_taiwan
-
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
