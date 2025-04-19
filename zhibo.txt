@@ -6528,6 +6528,7 @@ IHOT,#genre#
 惊艳台,http://18.svi-studio.com:80/live/875355861316/575426927985/1.m3u8
 惊艳台,http://18.svi-studio.com:80/live/656570054361/567275863459/1.m3u8
 惊艳台,http://18.svi-studio.com:80/live/378283219362/918313032809/1.m3u8
+惊艳台,http://125.227.210.55:8156/VideoInput/play.ts
 DORCEL XXX,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75894
 REDLIGHT HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75895
 BRAZZERS,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
